@@ -1,8 +1,8 @@
-### Hi there 👋
-
 👋 Hi, I’m @techVidyaax
-👀 I’m interested in full stack development and website design, with a passion for creating visually appealing and user-friendly interfaces.
-🌱 I'm currently exploring new technologies and frameworks to broaden my knowledge and expertise.
-💞️ I’m looking to collaborate on exciting projects that leverage modern frameworks and push the boundaries of web design.
-⚡ Code hard, coffee harder❤️☕️!
-Visit my portfolio for more details 😊 : https://techvidyaax.github.io/portfolio/
+🤖 Machine Learning enthusiast with a strong interest in building intelligent, data-driven solutions.
+💻 Skilled in Full Stack Development and Website Design, creating clean, user-friendly, and visually appealing interfaces.
+🌱 Currently exploring advanced ML techniques, AI models, and modern frameworks to deepen my expertise.
+💞️ Open to collaborating on ML-powered applications, AI-driven systems, and innovative web projects.
+⚡ Turning data into insights — Code hard, coffee harder ❤️☕
+
+🔗 Portfolio: https://techvidyaax.github.io/portfolio/
